@@ -1,0 +1,23 @@
+# Ignore build output and user‑specific files
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.vs/
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Ignore dotnet‑generated files
+project.lock.json
+artifacts/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
