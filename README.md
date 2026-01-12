@@ -12,7 +12,7 @@ MonitorToggle is a small Windows console application that toggles your display t
 ## Requirements
 
 * Windows 10 or later.
-* [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) installed to build the project.
+* [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) installed to build the project.
 
 ## Building
 
