@@ -18,7 +18,7 @@ MonitorToggle is a small Windows console application that toggles your display t
 
 1. Clone the repository or download the source.
 2. Open a command prompt in the repository root.
-3. Run `dotnet build` to compile the project.  The output executable will be placed in `bin/Release/net6.0‑windows` when built in Release configuration.
+3. Run `dotnet build` to compile the project.  The output executable will be placed in `bin/Release/net10.0‑windows` when built in Release configuration.
 
 ```
 dotnet build -c Release
